@@ -9,7 +9,7 @@ end
 
 speakers.each do |speaker|
 rooms.each do |room|
-  puts "speaker" 
+  puts "speaker #{speaker} 
 
 puts "Hello (#name)!  You'll be assigned to room (#room)"
 end
